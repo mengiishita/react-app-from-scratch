@@ -1,6 +1,6 @@
 # React App from scratch
 
-# Pacel
+# Parcel
 - Dev Build
 - Local server
 - HMR - Hot Module replacement
