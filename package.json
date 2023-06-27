@@ -1,0 +1,22 @@
+{
+  "name": "react-app-from-scratch",
+  "version": "1.0.0",
+  "description": "React app from scratch",
+  "main": "App.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mengiishita/react-app-from-scratch.git"
+  },
+  "author": "Ishita Mengi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mengiishita/react-app-from-scratch/issues"
+  },
+  "homepage": "https://github.com/mengiishita/react-app-from-scratch#readme",
+  "devDependencies": {
+    "parcel": "^2.9.3"
+  }
+}
